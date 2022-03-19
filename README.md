@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gspmarket
+- 👋 Hi, I’m Joshim, CEO of GSP-Market.
 - 👀 I’m interested in web technology.
 - 🌱 I’m currently learning wordpress development and laravel.
 - 💞️ I’m looking to collaborate on wordpress theme and plugin.
